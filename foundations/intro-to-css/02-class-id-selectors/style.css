@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.odd {
+  background-color: rgb(252, 144, 108);
+  color: red;
+  font-family: verdana, sans-serif, arial;
+}
+#bltext {
+  color: blue;
+  font-size: 36px;
+}
+#fontz {
+  font-size: 24px;
+}
+#backlight {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
