@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.firstelement {
+  background-color: black;
+  color: white;
+}
+.secondelement {
+  background-color: yellow;
+}
+.firstelement,
+.secondelement {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 28px;
+}
